@@ -10,7 +10,6 @@ This is a solution to the [Tip calculator app on Frontend Mentor](https://www.fr
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
