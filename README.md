@@ -38,3 +38,4 @@ This is a solution to the [Tip calculator app on Frontend Mentor](https://www.fr
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
+- Linkedin - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
